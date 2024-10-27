@@ -1,0 +1,14 @@
+
+////////////////logic
+il y a 4 fonction qui decide de haut bas gauche droite pour les input et il y a une en plus qui gere vers quelle fonction en fonction des input
+
+il y aussi une touche esc qui esy fonction qui est dans un autre fichier elle sert pour fermer le jeu
+
+
+///////////////////////so_long
+
+le so_long.c sert a prendre le nombre d'argument pas plus de deux le so_long et le map.ber puis il le open avec fd pour pouvoir le lire
+
+apres si c'est incorrect ca renvoie erreur sinon ca redirige vers une fonction de initiation__et__de__verifiction du jeu.
+
+
